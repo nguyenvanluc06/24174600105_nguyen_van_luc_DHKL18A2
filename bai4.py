@@ -1,6 +1,6 @@
 hieu_dien_the = 220
 cuong_do_dong_dien = 2.7
-gia_dien = 7000
+gia_dien = 200
 
 thoi_gian_su_dung = float(input("Thời gian sử dụng bóng điện(s): "))
 
