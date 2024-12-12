@@ -1,0 +1,8 @@
+def product_sequence(*args):
+    product = 1
+    for num in args:
+        product *= num
+    return product
+
+print(product_sequence(1, 2, 3, 4))
+
